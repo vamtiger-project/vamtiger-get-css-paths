@@ -1,6 +1,6 @@
 {
     "name": "vamtiger-get-stylesheet-paths",
-    "version": "0.0.2",
+    "version": "0.0.3-0",
     "description": "Get a list of css paths for defined HTML document text.",
     "main": "build",
     "scripts": {
