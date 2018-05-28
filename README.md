@@ -1,8 +1,8 @@
 # VAMTIGER Bash
-[VAMTIGER Get HTML Title](https://github.com/vamtiger-project/vamtiger-get-stylesheet-paths) will return a list of stylesheet paths for defined HTML document text.
+[VAMTIGER Get Stylesheet Paths](https://github.com/vamtiger-project/vamtiger-get-stylesheet-paths) will return a list of stylesheet paths for defined HTML document text.
 
 ## Installation
-[VAMTIGER Get HTML Title](https://github.com/vamtiger-project/vamtiger-get-stylesheet-paths) can be installed using [npm](https://www.npmjs.com/) or [yarn]():
+[VAMTIGER Get Stylesheet Paths](https://github.com/vamtiger-project/vamtiger-get-stylesheet-paths) can be installed using [npm](https://www.npmjs.com/) or [yarn]():
 ```bash
 npm i --save vamtiger-get-stylesheet-paths
 ```
@@ -12,7 +12,7 @@ yarn add vamtiger-get-stylesheet-paths
 ```
 
 ## Usage
-[Import](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/import) or [require](https://nodejs.org/api/modules.html#modules_require) a referece to [VAMTIGER Get HTML Title](https://github.com/vamtiger-project/vamtiger-get-stylesheet-paths):
+[Import](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/import) or [require](https://nodejs.org/api/modules.html#modules_require) a referece to [VAMTIGER Get Stylesheet Paths](https://github.com/vamtiger-project/vamtiger-get-stylesheet-paths):
 ```javascript
 import getStylesheetPaths from 'vamtiger-get-stylesheet-paths';
 ```
@@ -21,7 +21,7 @@ or
 const getStylesheetPaths = require('vamtiger-get-stylesheet-paths').default;
 ```
 
-[VAMTIGER Get HTML Title](https://github.com/vamtiger-project/vamtiger-get-stylesheet-paths) will return a list of stylesheet paths for defined HTML document text.
+[VAMTIGER Get Stylesheet Paths](https://github.com/vamtiger-project/vamtiger-get-stylesheet-paths) will return a list of stylesheet paths for defined HTML document text.
 ```javascript
 const getStylesheetPaths = require('vamtiger-get-stylesheet-paths').default
 
