@@ -1,4 +1,4 @@
-# VAMTIGER Bash
+# VAMTIGER Get Stylesheet Paths
 [VAMTIGER Get Stylesheet Paths](https://github.com/vamtiger-project/vamtiger-get-stylesheet-paths) will return a list of stylesheet paths for defined HTML document text.
 
 ## Installation
@@ -46,9 +46,9 @@ const html = `
 </body>
 </html>
 `;
-const stylesheetPaths = getStylesheetPaths({ html }); 
+const stylesheetPaths = getStylesheetPaths({ html });
 /* [
-'some/stylesheet/link/index.css', 
+'some/stylesheet/link/index.css',
 'another/stylesheet/link/index.css',
 'https://yet/another/stylesheet/link/index.css'
 ] */
